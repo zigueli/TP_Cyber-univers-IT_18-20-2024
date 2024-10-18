@@ -20,5 +20,6 @@ Les informations affichées sont les suivantes :
         * L'adresse IPv4 ainsi que l'adresse MAC
         * Le nombre de commande exécutées avec sudo
 
-### Second script :
+### Second script : Sauvegarde des données présentes sur /data vers /mnt/storage
 
+	* Export 
